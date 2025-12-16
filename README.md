@@ -89,7 +89,7 @@ Screenshots of working APIs and database are available in the `Screenshots/` fol
 - Task creation API
 - Task retrieval API
 - AI suggestion API
-- H2 database console
+
 
 ---
 
